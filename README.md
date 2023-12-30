@@ -20,7 +20,7 @@ This will install all the necessary dependencies for the application.
 
 1. **Run the Application:**
 
-npm start <br>
+nodemon <br>
 The application will start, and you can access it in your web browser at http://localhost:3000.
 
 2. **Calculate BMI:**
