@@ -9,8 +9,10 @@ This is a simple Body Mass Index (BMI) Calculator web application. It allows use
 
 1. **Clone the Repository:**
 
+<p>
    git clone <repository-url>
    cd calculator
+</p>
 
 
 ## Install Dependencies:
