@@ -23,7 +23,7 @@ This will install all the necessary dependencies for the application.
 npm start <br>
 The application will start, and you can access it in your web browser at http://localhost:3000.
 
-2.**Calculate BMI:**
+2. **Calculate BMI:**
 
 - Navigate to the "Calculator" section using the navigation bar.
 - Enter the required information, such as age, gender, weight, and height.
