@@ -15,12 +15,12 @@ This is a simple Body Mass Index (BMI) Calculator web application. It allows use
 
 ## Install Dependencies:
 
-npm install
+npm install <br>
 This will install all the necessary dependencies for the application.
 
 1. **Run the Application:**
 
-npm start
+npm start <br>
 The application will start, and you can access it in your web browser at http://localhost:3000.
 
 2.**Calculate BMI:**
