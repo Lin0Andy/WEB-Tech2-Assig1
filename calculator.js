@@ -46,7 +46,6 @@ app.route('/bmicalculator').post([
 
     let bmi;
 
-    // Adjust the BMI calculation based on age and gender
     if (gender === 'male') {
         bmi = weightInKg / (heightInMeters * heightInMeters);
     } else if (gender === 'female') {
